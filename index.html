@@ -180,7 +180,6 @@
     </div>
 
     <!-- Making Memories Around World Unforgettable -->
-
     <div class="container-fluid">
         <div class="Allsecpadding">
             <div class="secmakbgg">
@@ -272,9 +271,45 @@
         </div>
     </div>
 
+    <!-- Visa Category -->
+    <div class="container-fluid">
+        <div class="Allsecpadding">
+          <p class="secourpatext3"> <img src="images/Frame3.png" alt=""> Visa Category</p>
+          <h3 class="secourpatext4">Seeking Adventure Thrills <br> and Excitement Await</h3>
 
-
-
+          <!-- slider -->
+          <div class="owl-carousel Seeking-slider owl-theme">
+            <div class="item">
+                
+                <div class="secseebg">
+                <div class="row ">
+                    <div class="col-md-5">
+                        <img class="img-fluid" src="images/see1.png" alt="">
+                    </div>
+                    <div class="col-md-7">
+                        <div class="seetextsec">
+                            <h3>Student Visa</h3>
+                            <p>Et purus duis sollicitudin dignissim habitant. Egestas nulla quis  the venenatis cras sed eu </p>
+                       
+                            <!-- click -->
+                             <div class="row">
+                                <div class="col-md-6">
+                                    <div class="secclink">
+                                        <a href="#"><i class="bi bi-arrow-up-right"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6"></div>
+                             </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <div class="item"></div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -294,8 +329,34 @@
     <script src='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js'></script>
 
     <script>
+
+$('.owl-carousel.Seeking-slider').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+
+
+
+
+
+
+
+
+
         $('.owl-carousel.order-slider').owlCarousel({
-            items:5,
+            items: 5,
             loop: true,
             margin: 10,
             merge: true,

@@ -424,3 +424,38 @@ a {
   background-color: #36996D !important;
   border: 1px solid #36996D;
 }
+.secourpatext3{
+  text-align: center;
+  color: #242424;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.secourpatext4{
+  text-align: center;
+  font-size: 45px;
+  color: #242424;
+  font-weight: 700;
+
+}
+.secseebg{
+  border: 1px solid #e3dbd8;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+.seetextsec h3{
+  color: #242424;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.seetextsec p{
+  color:#727272;
+  font-size: 14px;
+}
+
+.secclink a{
+  border: 1px solid #0065C2 !important;
+
+}
