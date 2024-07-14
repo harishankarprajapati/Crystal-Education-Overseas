@@ -7,7 +7,11 @@
     width: 1903px;
     margin: auto;
   }
-
+  .order-slider .owl-item {
+    width: 188px !important;
+    margin-right: 10px;
+    transition: 1s;
+  }
 }
 
 
