@@ -749,3 +749,182 @@ border: 1px solid #008FB4;
 .newsslider button.owl-next:hover , .newsslider button.owl-prev:hover{
   color: #fff !important;
 } 
+
+.formsmsbgg{
+  background-image: url(../images/forbgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 150px;
+  margin-bottom: 60px;
+  border-radius: 15px;
+}
+
+.secforntitt{
+  text-align: center;
+  color: #ffff;
+  font-weight: 700;
+}
+
+input{
+  margin-bottom: 10px;
+  padding: 40px;
+}
+
+.secformbtn{
+  text-align: center !important;
+}
+
+.secformbtn {
+font-size: 15px;
+font-weight: 600;
+padding: 15px 30px;
+border: 1px solid #0172DB;
+border-radius: 50px;
+background-color: #0172DB;
+color: #fff;
+}
+
+.secformbtn:hover{
+  border: 1px solid #0172DB;
+  color: #fff;
+}
+
+.secfootrbg{
+  background-image: url(../images/Footerbgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px 50px;
+}
+
+.secfoterlefttext{
+  font-weight: 500;
+font-size: 30px;
+text-transform: capitalize;
+color: #FFF;
+}
+
+.footertitt{
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.secpfoot p i{
+  color: #fff;
+  font-size: 16px;
+}
+.secpfoot p a{
+  color: #fff;
+  font-size: 16px;
+}
+
+.logodowntext{
+  color: #fff;
+  font-size: 16px;
+}
+.subscribe {
+  display: block;
+  position: relative;
+  margin-top: 15px;
+  width: 100%;
+}
+.subscribe__input {
+background-color: #000;
+border: medium none;
+border-radius: 5px;
+color: #fff;
+display: block;
+font-size: 15px;
+font-weight: 500;
+height: 60px;
+letter-spacing: 0.4px;
+margin: 0;
+padding: 0 50px 0 20px;
+text-align: center;
+text-transform: capitalize;
+width: 100%;
+}
+.subscribe ::placeholder{
+  color: #fff !important;
+}
+@media only screen and (max-width:768px) { 
+.subscribe__input{padding: 0 50px 0 20px;}
+}
+
+.subscribe__btn {
+background-color: #36996D;
+border-radius:  50px;
+color: #FFF;
+cursor: pointer;
+display: block;
+font-size: 20px;
+height: 60px;
+position: absolute;
+right: -25px;
+top: 0;
+width: 60px;
+}
+.subscribe__btn i{transition: all 0.3s ease 0s;}
+@media only screen and (max-width:768px) { 
+.subscribe__btn{right:0px;}
+}
+
+.subscribe__btn:hover i{
+  color:#0172DB;
+}
+button {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+.social_profile {margin-top:40px;}
+.social_profile ul{
+list-style: outside none none;
+margin: 0;
+padding: 0;
+}
+.social_profile ul li{float:left;}
+.social_profile ul li a {
+    text-align: center;
+    border: 0px;
+    text-transform: uppercase;
+    transition: all 0.3s ease 0s;
+    margin: 0px 5px;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: block;
+    border: 1px solid rgba(255,255,255,0.2);
+}
+@media only screen and (max-width:768px) { 
+.social_profile ul li a{margin-right:10px;margin-bottom:10px;}
+}
+@media only screen and (max-width:480px) { 
+.social_profile ul li a{
+    width:40px;
+    height:40px;
+    line-height:40px;
+}
+}
+.social_profile ul li a:hover{
+background:#36996D;
+border: 1px solid #36996D;
+color:#fff;
+border:0px;
+}
+
+.seccopy{
+  color: #fff;
+}
+.secpoli{
+  text-align: end;
+}
+.secpoli a{
+  color: #fff;
+  padding-left: 10px;
+}
