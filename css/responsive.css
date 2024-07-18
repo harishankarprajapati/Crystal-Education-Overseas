@@ -12,6 +12,52 @@
     margin-right: 10px;
     transition: 1s;
   }
+  .testtittle p {
+    font-size: 30px;
+}
+.testtittle h6 {
+  font-size: 22px;
+}
+.testtittle span {
+  font-size: 18px;
+}
+.newsslider .owl-nav {
+  margin-top: -702px;
+  margin-bottom: 610px;
+}
+input {
+  height: 67px;
+}
+.secformbtn {
+  font-size: 22px;
+}
+.secfootrbg {
+  padding: 0px 150px;
+}
+.secourpatext3 , .secourpatext , .Whyceotext p , .secourpatext30{
+  font-size: 25px;
+}
+.headermenusec {
+  font-size: 22px;
+}
+.headmenu2 a {
+  font-size: 22px;
+}
+.secourpatext40{
+  font-size: 55px;
+}
+.blogslider .owl-nav {
+  margin-top: -566px;
+  margin-bottom: 410px;
+}
+.slidertext h1 {
+  font-size: 80px;
+}
+.sliderbtn a {
+  padding: 25px 40px;
+  font-size: 25px;
+}
+
 }
 
 
