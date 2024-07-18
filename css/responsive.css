@@ -57,6 +57,10 @@ input {
   padding: 25px 40px;
   font-size: 25px;
 }
+.secinerpagebg {
+  border-radius: 80px;
+  height: 550px;
+}
 
 }
 
