@@ -1266,5 +1266,101 @@ button {
   margin-bottom: 30px !important;
   height: 70px;
 }
+ul.dropdown-menu.show {
+  background: #F1F5EB;
+  font-family: 'Plus Jakarta Sans';
+  border: 0;
+  border-radius: 0;
+  box-shadow: 1px 1px 1px 1px #bdbdbd;
+}
+ul.dropdown-menu.show a.dropdown-item:hover {
+color: #0172DB !important;
+background: #F1F5EB;
 
+}
+ul.dropdown-menu.show a.dropdown-item{
+font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 30px;
+}
+.alltextsec h4{
+  font-weight: 700;
+  font-size: 19px;
+  color: #000;
+}
+.secinerpagebg3 {
+  background-image: url(../images/DiscoverDubaibgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
+}
+
+.secinerpagebg3 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.secinerpagebg3 P {
+  font-size: 22px;
+  color: #fff;
+}
+ol li{
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.inerpa22 {
+  padding: 20px 10px !important;
+  margin-top: -40px !important;
+  margin-bottom: 30px !important;
+  margin-left: 134px !important;
+  height: 70px;
+}
+
+.secinerpagebg4 {
+  background-image: url(../images/DiscoverGermanybgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secinerpagebg4 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+
+.secinerpagebg4 P {
+  font-size: 22px;
+  color: #000;
+}
+tbody, td, tfoot, th, thead, tr {
+  background: transparent !important;
+}
+.tablerheading{
+  background: #0055A4 !important;
+}
+.tablerheading tr th{
+  color: #fff;
+}
+.sectablaetr{
+  background: #fff !important;
+}
+.sectablaetr td{
+  color: #727272;
+  font-size: 16px;
+}

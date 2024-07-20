@@ -57,7 +57,7 @@ input {
   padding: 25px 40px;
   font-size: 25px;
 }
-.secinerpagebg , .secinerpagebg2 {
+.secinerpagebg , .secinerpagebg2 , .secinerpagebg3 , .secinerpagebg4{
   border-radius: 80px;
   height: 550px;
 }
