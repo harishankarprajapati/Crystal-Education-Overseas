@@ -1364,3 +1364,25 @@ tbody, td, tfoot, th, thead, tr {
   color: #727272;
   font-size: 16px;
 }
+.secinerpagebg5 {
+  background-image: url(../images/DiscoverUSAbgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.secinerpagebg5 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+
+.secinerpagebg5 P {
+  font-size: 22px;
+  color: #000;
+}
