@@ -1466,3 +1466,40 @@ a{
   font-size: 22px;
   color: #FFF;
 }
+
+.seccontactbg {
+  border-radius: 50px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.seccontactbg iframe{
+  border-radius: 30px;
+}
+.sec-cont-hh{
+  font-family: 700;
+  color: #000;
+  font-size: 45px;
+}
+.sec-menu-btn2{
+  padding: 12px 30px;
+  font-size: 20px;
+    background: #0172DB;
+    border-radius: 50px;
+    color: #fff;
+    text-decoration: none !important;
+}
+.sec-menu-btn2:hover{
+  background: #36996D;
+  color: #fff;
+}
+.seccont-add-h{
+  font-size: 25px;
+  color: #000;
+  font-weight: 700;
+}
+.seccont-add-p{
+  text-decoration: none !important;
+}
