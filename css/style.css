@@ -1443,3 +1443,26 @@ a{
   font-size: 22px;
   color: #FFF;
 }
+
+.secinerpagebg7 {
+  background-image: url(../images/DiscoverIrelandbg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.secinerpagebg7 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #FFF;
+}
+
+.secinerpagebg7 P {
+  font-size: 22px;
+  color: #FFF;
+}
