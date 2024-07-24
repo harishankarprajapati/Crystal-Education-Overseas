@@ -1386,3 +1386,38 @@ tbody, td, tfoot, th, thead, tr {
   font-size: 22px;
   color: #000;
 }
+.sec9houu {
+  background-color: #0065C2;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.sec9houu p {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.sec9houu p a {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+.sec9hougreen2 {
+  background-color: #36996D;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.sec9hougreen2 p {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+}
+a{
+  color: #000;
+  text-decoration: underline;
+}
