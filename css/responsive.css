@@ -143,4 +143,117 @@ div#navbarOffcanvas {
   padding-bottom: 50px;
 }
 
+
+
+
+
+
+
+
+
+.Allsecpadding {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.slidertext {
+  padding-left: 20px;
+}
+.slidertext h1 {
+  font-size: 25px;
+}
+.sliderbtn a {
+  padding: 10px 17px;
+  font-size: 10px;
+}
+.secbgslider {
+  padding-top: 50px;
+  padding-bottom: 6px;
+}
+.secimgicon22{
+  width: 50%;
+}
+.secimgicon222{
+  width: 30%;
+}
+.secdispro{
+  display: flex;
+  flex-direction: column-reverse;
+}
+.secmakbgg {
+  padding: 20px;
+}
+.secourpatext2 {
+  font-size: 25px;
+}
+.order-slider .owl-nav.disabled {
+ display: none;
+}
+.order-slider .owl-item {
+  width: 250px !important;
+  margin-right: 10px;
+  transition: 1s;
+}
+.secslidertextbg {
+  opacity: 1;
+}
+a.navbar-brand {
+  width: 68%;
+}
+.secourpatext4 {
+  font-size: 20px;
+}
+.secdt2 {
+  width: 50%;
+}
+.col-md-6.secdt {
+  width: 50%;
+}
+.secseebg {
+  margin: 0px;
+}
+.testbgg {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 30px;
+  margin: 0px 0px;
+}
+.bggte::after{
+  display: none;
+}
+.secpa {
+  padding: 50px 10px;
+}
+.owl-dots , .owl-nav{
+  display: none;
+}
+.secceopa {
+  padding: 0px 10px 0px 10px;
+}
+.blogtext .col-lg-9 {
+  width: 70%;
+}
+.blogtext .col-lg-3 {
+  width: 30%;
+}
+.bggte {
+  background-color: #008FB4;
+  padding: 10px;
+}
+.testtittle p {
+  font-size: 16px;
+}
+.secceopa234{
+  padding: 50px 10px !important;
+}
+.secourpatext40 {
+  font-size: 25px;
+}
+.formsmsbgg {
+  padding: 10px 15px;
+  margin-bottom: 60px;
+  border-radius: 15px;
+}
+.secforntitt {
+  font-size: 15px;
+}
 }
