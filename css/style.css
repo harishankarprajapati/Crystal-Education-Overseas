@@ -1582,3 +1582,95 @@ a{
   height: 82px;
   border-radius: 15px 0px 15px 15px ;
 }
+.Allsecceobg2 {
+  background-image: url(../images/ceobg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.Allsecceobg2 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+.seccepmarg{
+  margin-top: -110px;
+}
+.secceotext{
+  padding: 50px 0px;
+}
+.secceotext p{
+font-size: 18px;
+}
+.ceoname h4{
+font-size: 30px;
+font-weight: 700;
+text-align: center;
+color: #000;
+padding-top: 20px;
+}
+.ceoname p{
+text-align: center;
+font-size: 18px;
+}
+.secawarpadd{
+  padding: 70px 0px;
+}
+.secawartext h3{
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+.secawartext p{
+  font-size: 18px;
+  color: #000;
+  text-align: center;
+}
+.secawarpadd2{
+  padding-bottom: 70px;
+}
+.seccomtext{
+  font-size: 40px;
+  font-weight: 700;
+  color: #000;
+}
+.seccomtext2{
+  font-size: 18px;
+  color: #000;
+}
+.secholi{
+  font-size: 40px;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+.secholi2{
+  font-size: 18px;
+  color: #000;
+  text-align: center;
+}
+.secholibg h3{
+  font-size: 25px;
+  font-weight: 700;
+  padding-top: 10px;
+}
+.secholibg p{
+  font-size: 16px;
+  color: #000;
+}
+.seccomtextname{
+  font-size: 25px;
+  color: #000;
+  font-weight: 700;
+  padding-top: 20px;
+}
+.secceotext2 p{
+  font-size: 18px;
+}
