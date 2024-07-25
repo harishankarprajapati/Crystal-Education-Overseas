@@ -1506,3 +1506,45 @@ a{
 .form-group {
   padding-left: 0px;
 }
+
+.secdumycol{
+  background-color: #3491e3;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secdumycol h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #fff;
+}
+.secproduct{
+  padding: 80px 0px 50px 0px;
+}
+.secproductlogo{
+  padding: 10px 10px 10px 10px;
+  background-color: #fff;
+  margin-top: -30px;
+  position: relative;
+  z-index: 99;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  height: 66px;
+  border-radius: 15px 0px 15px 15px ;
+}
+.secproduttextname {
+  display: flex;
+  align-items: center;
+}
+
+.secproduttextname h3{
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0px;
+  text-decoration: none !important;
+}
