@@ -1674,3 +1674,93 @@ font-size: 18px;
 .secceotext2 p{
   font-size: 18px;
 }
+.Allsecceobg3 {
+  background-image: url(../images/WeCareServicesbg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.Allsecceobg3 h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+.secbggmiss{
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 50px;
+}
+.seccenterd{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.secmissbgg{
+  background: rgb(255,236,205);
+background: linear-gradient(90deg, rgba(255,236,205,1) 0%, rgba(241,245,235,1) 100%);
+border-radius: 320px;
+padding: 20px;
+margin-bottom: 25px;
+}
+.secwhattext h4{
+font-weight: 700;
+font-size: 20px;
+color: #000;
+}
+.secwhattext p{
+font-size: 18px;
+color: #000;
+margin: 0;
+}
+.secreadybgg{
+  background: #36996D;
+  padding: 50px;
+}
+.secradetext{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.secradetext2{
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+}
+.secreadbtn{
+  text-align: center;
+  padding: 20px;
+}
+.secreadbtn a{
+  background: #fff;
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  color: #0172DB;
+}
+.secreadbtn a:hover{
+  background: #0172DB;
+  color: #fff;
+}
+.secreadbtn2{
+  padding: 30px;
+}
+.secreadbtn2 a{
+  background: #0172DB;
+  padding: 15px 30px;
+  border-radius: 50px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #0172DB;
+}
+.secreadbtn2 a:hover{
+  background: #fff;
+  color: #0172DB;
+}
