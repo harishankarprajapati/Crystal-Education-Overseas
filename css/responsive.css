@@ -183,7 +183,11 @@ div#navbarOffcanvas {
   padding: 20px;
 }
 .secourpatext2 {
-  font-size: 25px;
+  font-size: 19px;
+}
+.navbar-nav.justify-content-end.flex-grow-1.pe-3 {
+  display: flex;
+  align-items: flex-start;
 }
 .order-slider .owl-nav.disabled {
  display: none;
@@ -226,8 +230,11 @@ a.navbar-brand {
 .owl-dots , .owl-nav{
   display: none;
 }
+.Whyceotext {
+  padding-top: 30px;
+}
 .secceopa {
-  padding: 0px 10px 0px 10px;
+  padding: 40px 10px 40px 10px;
 }
 .blogtext .col-lg-9 {
   width: 70%;
@@ -255,5 +262,149 @@ a.navbar-brand {
 }
 .secforntitt {
   font-size: 15px;
+}
+.secfoterlefttext {
+  font-size: 19px;
+}
+.secfootrbg {
+  padding: 0px 10px;
+}
+.Allsecceobg2 , .Allsecceobg3 , .secdumycol , .secinerpagebg , .secinerpagebg6{
+  padding: 20px;
+  border-radius: 15px;
+  height: 200px;
+}
+.Allsecceobg2 h2 , .Allsecceobg3 h2 , .secdumycol h2 , .secinerpagebg h2 , .secinerpagebg6 h2{
+  font-size: 30px;
+}
+.secinerpagebg P , .secinerpagebg6 P{
+  font-size: 18px;
+}
+.secpaammob{
+  padding: 0;
+}
+.mobpa{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.col-lg-4.sidebar {
+  padding: 0px;
+}
+.secawartext h3 {
+  font-size: 30px;
+}
+.seccepmarg {
+  margin-top: 30px;
+}
+.seculatpalat{
+  display: flex;
+  flex-direction: column-reverse;
+}
+.secceotext {
+  padding: 0px 0px;
+}
+.secawarpadd {
+  padding: 40px 10px;
+}
+.secceotext p {
+  font-size: 16px;
+  text-align: center;
+}
+.secawartext p {
+  font-size: 16px;
+}
+.row.m-0.seculatpalat img {
+  margin: 10px;
+}
+.seccomtext {
+  font-size: 30px;
+  padding-top: 20px;
+  text-align: center;
+}
+.seccomtext2 {
+  font-size: 16px;
+  text-align: center;
+  color: #000;
+}
+.secawarpadd2 {
+  padding-bottom: 40px;
+}
+.secholi {
+  font-size: 30px;
+}
+.secholi2 {
+  font-size: 16px;
+
+}
+.secholibg h3 , .secholibg p , .seccomtextname{
+  text-align: center;
+}
+.secceotext2 p {
+  font-size: 16px;
+  text-align: center;
+}
+.ceoname h4 {
+  font-size: 25px;
+}
+.secmissbgg {
+  background: rgb(255, 236, 205) !important;
+  /* background: linear-gradient(90deg, rgba(255, 236, 205, 1) 0%, rgba(241, 245, 235, 1) 100%); */
+   border-radius:0px; 
+  padding: 20px;
+}
+.secreadybgg {
+  padding: 30px 14px;
+}
+.secradetext {
+  font-size: 30px;
+}
+.secradetext2 {
+  font-size: 16px;
+}
+.secproduct {
+  padding: 40px 10px;
+}
+.secproductlogo {
+  margin-bottom: 50px;
+}
+.secproduttextname h3 {
+  padding-top: 10px;
+}
+.secproduttextname2 h3 {
+  font-size: 17px;
+
+}
+.secproductlogo2 {
+  height: 63px;
+}
+.secproductimg img {
+  width: 100%;
+  height: auto;
+}
+.secallpadd {
+  padding: 40px 10px;
+}
+
+.secleftee h2 {
+  font-size: 25px;
+}
+.secleftee h3 {
+  font-size: 20px;
+}
+.candseccurr {
+  font-size: 25px !important;
+}
+.secover {
+  text-align: start;
+  font-size: 25px;
+}
+.sec9hou p a {
+  font-size: 12px;
+}
+.secallrightform {
+  margin-top: 50px;
+}
+.sectopca {
+  font-size: 25px;
 }
 }

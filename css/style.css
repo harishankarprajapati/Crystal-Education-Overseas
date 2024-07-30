@@ -908,7 +908,7 @@ input {
   font-size: 20px;
   height: 60px;
   position: absolute;
-  right: -25px;
+  right: -25px !important;
   top: 0;
   width: 60px;
 }
@@ -1411,6 +1411,7 @@ tbody, td, tfoot, th, thead, tr {
   font-size: 20px;
   font-weight: 600;
   color: #fff;
+  line-break: anywhere;
 }
 .sec9hougreen2 {
   background-color: #36996D;
