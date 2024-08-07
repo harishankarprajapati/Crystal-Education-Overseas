@@ -230,6 +230,9 @@ a {
   color: #fff;
   text-transform: capitalize;
 }
+.order-slider .owl-stage-outer {
+  height: 350px ;
+}
 
 .sliderorderbg {
   background-image: url(../images/sliderorder1.png);
@@ -298,12 +301,7 @@ a {
   transition: 1s;
 }
 
-.order-slider .owl-stage-outer {
-  position: relative;
-  overflow: hidden;
-  -webkit-transform: translate3d(0, 0, 0);
-  height: 350px !important;
-}
+.sliderorderbg
 
 .order-slider .owl-item {
   transition: 0.7s;
