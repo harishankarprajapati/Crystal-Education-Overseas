@@ -101,6 +101,11 @@
   .secslidertextbg h3 {
     font-size: 35px;
   }
+  .order-slider .owl-nav.disabled {
+    margin-top: -681px;
+    margin-bottom: 524px;
+    text-align: end;
+}
 }
 
 
