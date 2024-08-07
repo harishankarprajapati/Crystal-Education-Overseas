@@ -47,7 +47,7 @@
   .secourpatext,
   .Whyceotext p,
   .secourpatext30 {
-    font-size: 25px;
+    font-size: 14px;
   }
 
   .headermenusec {
@@ -81,7 +81,8 @@
   .secinerpagebg3,
   .secinerpagebg4,
   .secinerpagebg5,
-  .secinerpagebg6 {
+  .secinerpagebg6 ,
+  .secinerpagebg7 {
     border-radius: 80px;
     height: 550px;
   }
@@ -105,6 +106,13 @@
     margin-top: -681px;
     margin-bottom: 524px;
     text-align: end;
+}
+.sliderbtn2 a {
+  padding: 9px 20px;
+  font-size: 16px;
+}
+.secslidertextbg p {
+  font-size: 18px;
 }
 }
 

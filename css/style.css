@@ -377,6 +377,7 @@ a {
   font-size: 14px;
   font-weight: 600;
   text-transform: capitalize;
+  text-decoration: none !important;
 }
 
 .order-slider .owl-dots.disabled {
@@ -1019,6 +1020,7 @@ button {
 .secdt {
   display: flex;
   align-items: center;
+  padding-left: 0;
 }
 
 .secdt2 {
@@ -1767,4 +1769,7 @@ margin: 0;
 }
 .newstext .col-md-6 {
   padding-left: 0;
+}
+.blogtext .col-lg-9 {
+  padding-left: 0px;
 }
