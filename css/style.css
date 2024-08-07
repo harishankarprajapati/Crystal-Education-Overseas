@@ -1766,3 +1766,6 @@ margin: 0;
   background: #fff;
   color: #0172DB;
 }
+.newstext .col-md-6 {
+  padding-left: 0;
+}
