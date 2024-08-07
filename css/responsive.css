@@ -31,10 +31,19 @@
     margin-bottom: 610px;
   }
 
-  input {
+  input , select#disabledSelect {
     height: 67px;
+    font-size: 20px;
   }
-
+  label.form-label , option {
+    font-size: 20px;
+  }
+  input::placeholder{
+    font-size: 20px;
+  }
+  .secallrightform h3 {
+    font-size: 40px;
+  }
   .secformbtn {
     font-size: 22px;
   }
@@ -56,6 +65,7 @@
 
   .headmenu2 a {
     font-size: 22px;
+    padding: 19px 20px;
   }
 
   .secourpatext40 {
@@ -86,7 +96,9 @@
     border-radius: 80px;
     height: 550px;
   }
-
+  ul.dropdown-menu.show a.dropdown-item {
+    font-size: 20px;
+  }
   .order-slider .owl-item {
     width: 288px !important;
   }
