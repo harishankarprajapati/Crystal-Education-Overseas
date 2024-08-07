@@ -98,6 +98,9 @@
   .order-slider .owl-item:hover {
     width: 388px !important;
   }
+  .secslidertextbg h3 {
+    font-size: 35px;
+  }
 }
 
 
