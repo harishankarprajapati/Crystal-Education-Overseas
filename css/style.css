@@ -1798,9 +1798,12 @@ margin: 0;
 .secclosize{
   width: 25% !important;
 }
-.secimgsiz{
+.secimgsiz {
 width: 80%;
 }
+.secimgass{
+  width: 60%;
+  }
 .secimgsiz3{
   width: 40%;
   }
