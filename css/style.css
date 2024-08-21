@@ -1384,6 +1384,7 @@ tbody, td, tfoot, th, thead, tr {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-radius: 35px;
 
 }
 .secinerpagebg5 h2 {
