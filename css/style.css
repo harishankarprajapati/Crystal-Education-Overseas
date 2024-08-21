@@ -1774,3 +1774,26 @@ margin: 0;
 .blogtext .col-lg-9 {
   padding-left: 0px;
 }
+
+.one li::marker  {
+  font-family:FontAwesome;
+  position: absolute;
+  left: 0;
+  color:#36996D;
+  font-size:16px;
+}
+
+.one li::marker  {
+   content:"\f064";
+}
+.one li{
+  padding-left: 10px;
+}
+.secbgg{
+  background: #ffffff;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+.secclosize{
+  width: 25% !important;
+}

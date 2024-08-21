@@ -6,6 +6,13 @@
     width: 1903px;
     margin: auto;
   }
+  .one li {
+    padding-left: 10px;
+    font-size: 20px;
+}
+.one li::marker {
+  font-size: 20px;
+}
 
   .order-slider .owl-item {
     width: 188px !important;
