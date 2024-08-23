@@ -1810,3 +1810,16 @@ width: 80%;
   .secfq{
     padding: 70px 10px;
   }
+  .sliderbtn a:hover{
+    background-color: #36996D !important;
+    border: 1px solid #36996D;
+    color: #fff;
+  }
+  button#back-to-up {
+    font-size: 25px;
+    padding: 10px 20px;
+}
+button#back-to-up:hover{
+  background-color: #36996D !important;
+  border: 1px solid #36996D;
+}
