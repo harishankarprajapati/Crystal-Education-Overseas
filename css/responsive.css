@@ -872,5 +872,16 @@ marquee {
 .secslidertextbg p {
   font-size: 13px;
 }
-
+button.accordion-button.collapsed {
+  font-size: 17px;
+}
+button.accordion-button {
+  font-size: 17px;
+}
+.secfq h5 {
+  font-size: 16px;
+}
+.secfq h4 {
+  font-size: 17px;
+}
 }
