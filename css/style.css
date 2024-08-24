@@ -1847,3 +1847,15 @@ button.accordion-button {
   font-weight: 700;
   color: #000;
 }
+.secvideohome video{
+  width: 100%;
+  border-radius: 25px;
+}
+.secfq p {
+  font-size: 18px;
+  color: #000;
+}
+.secfq ul li {
+  font-size: 16px;
+  color: #000;
+}
