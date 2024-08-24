@@ -32,21 +32,23 @@
   .testtittle span {
     font-size: 18px;
   }
-
+  .secgettitt {
+    padding-top: 25px;
+}
   .newsslider .owl-nav {
     margin-top: -702px;
     margin-bottom: 610px;
   }
 
   input , select#disabledSelect {
-    height: 67px;
+    height: 60px;
     font-size: 20px;
   }
   label.form-label , option {
     font-size: 20px;
   }
   input::placeholder{
-    font-size: 20px;
+    font-size: 18px;
   }
   .secallrightform h3 {
     font-size: 40px;

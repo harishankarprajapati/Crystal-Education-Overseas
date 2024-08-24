@@ -847,6 +847,7 @@ input {
   color: #fff;
   font-size: 22px;
   font-weight: 700;
+  padding-bottom: 25px;
 }
 
 .secpfoot p i {
@@ -865,6 +866,7 @@ input {
 .logodowntext {
   color: #fff;
   font-size: 16px;
+  padding-top: 10px;
 }
 
 .subscribe {
@@ -1273,7 +1275,7 @@ button {
 .inerpa{
   padding: 20px 10px !important;
   margin-top: -40px !important;
-  margin-bottom: 30px !important;
+  margin-bottom: 40px !important;
   height: 70px;
 }
 ul.dropdown-menu.show {
@@ -1586,6 +1588,11 @@ a{
   margin-bottom: 30px;
   height: 82px;
   border-radius: 15px 0px 15px 15px ;
+  display: flex;
+  align-content: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }
 .Allsecceobg2 {
   background-image: url(../images/ceobg.png);
