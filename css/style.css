@@ -2,6 +2,9 @@ body {
   background: #F1F5EB;
   font-family: 'Plus Jakarta Sans';
 }
+img.img-fluid.sec-logo-img , .footer-logoimg{
+  width: 80% !important;
+}
 
 .Allsecpadding {
   padding-left: 55px;
@@ -1569,13 +1572,14 @@ a{
 .secproduttextname2 {
   display: flex;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 .secproduttextname2 h3{
   font-weight: 600;
   font-size: 20px;
   margin: 0px;
+  text-align: center;
   text-decoration: none !important;
 }
 .secproductlogo2{
@@ -1593,6 +1597,7 @@ a{
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  justify-content: center;
 }
 .Allsecceobg2 {
   background-image: url(../images/ceobg.png);
@@ -1874,3 +1879,77 @@ input[type=number]::-webkit-outer-spin-button
 	-webkit-appearance: none; 
 }
 
+.secinerpagebgfaq {
+  background-image: url(../images/faqbanner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secinerpagebgfaq h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+
+.secinerpagebgvisa {
+  background-image: url(../images/visabanner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secinerpagebgvisa h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+
+.secinerpagebgStudent {
+  background-image: url(../images/student-serves-banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secinerpagebgStudent h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}
+
+.secinerpageproduct {
+  background-image: url(../images/student-serves-banner.png);
+  background-repeat: no-repeat;
+  padding: 30px 60px;
+  border-radius: 25px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.secinerpageproduct h2 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #000;
+}

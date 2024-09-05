@@ -101,9 +101,13 @@
   .secinerpagebg4,
   .secinerpagebg5,
   .secinerpagebg6 ,
-  .secinerpagebg7 {
-    border-radius: 80px;
+  .secinerpagebg7 , .secinerpagebgfaq , .secinerpagebgvisa , .secinerpagebgStudent  {
+    border-radius: 30px;
     height: 550px;
+  }
+  .secinerpageproduct {
+    border-radius: 50px;
+    height: 350px;
   }
   ul.dropdown-menu.show a.dropdown-item {
     font-size: 20px;
