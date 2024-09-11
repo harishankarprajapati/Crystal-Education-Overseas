@@ -113,7 +113,9 @@ img.img-fluid.sec-logo-img , .footer-logoimg{
 .sliderbtn {
   padding: 40px 0px 20px 0px;
 }
-
+.secrevimg{
+  width: 50% !important;
+}
 .sliderbtn a {
   padding: 15px 30px;
   background: transparent;
