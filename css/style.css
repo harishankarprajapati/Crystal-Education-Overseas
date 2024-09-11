@@ -76,6 +76,15 @@ img.img-fluid.sec-logo-img , .footer-logoimg{
   border-radius: 40px !important;
 
 }
+.secbgslider2 {
+  background-image: url(../images/slidebg2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-radius: 40px !important;
+
+}
 .secdd{
   display: flex;
   flex-direction: column;
