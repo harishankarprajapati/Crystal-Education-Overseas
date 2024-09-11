@@ -71,21 +71,43 @@ img.img-fluid.sec-logo-img , .footer-logoimg{
   background-image: url(../images/slidebg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   border-radius: 40px !important;
 
 }
+.secdd{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
 .slidertext {
-  padding-left: 100px;
+  padding: 20px 0px 20px 100px;
 
+
+}
+.slidertext h5 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Sans';
+  text-transform: uppercase;
 }
 
 .slidertext h1 {
-  color: #000;
+  color: #fff;
   font-weight: 700;
   font-size: 50px;
+  text-transform: capitalize;
+}
+.slidertext p {
+  color: #fff;
+  font-weight: 300;
+  font-size: 18px;
+  font-family: 'Plus Jakarta Sans';
+  text-transform: capitalize;
+  padding: 10px 0px 10px 0px;
 }
 
 .sliderbtn {
@@ -95,9 +117,9 @@ img.img-fluid.sec-logo-img , .footer-logoimg{
 .sliderbtn a {
   padding: 15px 30px;
   background: transparent;
-  border: 1px solid #000;
+  border: 1px solid #fff;
   border-radius: 50px;
-  color: #000;
+  color: #fff;
   text-decoration: none;
   font-weight: 500;
 }
