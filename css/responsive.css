@@ -36,7 +36,7 @@
     padding-top: 25px;
 }
   .newsslider .owl-nav {
-    margin-top: -702px;
+    margin-top: -721px;
     margin-bottom: 610px;
   }
 
@@ -894,5 +894,8 @@ button.accordion-button {
 }
 .secfq h4 {
   font-size: 17px;
+}
+.newstext {
+  height: auto;
 }
 }
