@@ -761,7 +761,6 @@ a {
   border: 1px solid #E3DBD8;
   padding: 20px;
   border-radius: 0px 0px 10px 10px;
-  height: 278px;
 }
 
 .newstext h2 {
@@ -787,8 +786,8 @@ a {
 }
 
 .newsslider .owl-nav {
-  margin-top: -677px;
-  margin-bottom: 580px;
+  margin-top: -631px;
+  margin-bottom: 561px;
   text-align: end;
   font-size: 40px;
 }
