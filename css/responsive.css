@@ -106,7 +106,7 @@
   .secinerpagebg4,
   .secinerpagebg5,
   .secinerpagebg6 ,
-  .secinerpagebg7 , .secinerpagebgfaq , .secinerpagebgvisa , .secinerpagebgStudent  {
+  .secinerpagebg7 , .secinerpagebgfaq , .secinerpagebgvisa , .secinerpagebgStudent , .secinerpagenew  {
     border-radius: 30px;
     height: 550px;
   }
@@ -634,7 +634,7 @@
   .secinerpagebg h2,
   .secinerpagebg6 h2,
   .secinerpagebg2 h2,
-  .secinerpagebg4 h2 , .secinerpagebg3 h2 , .secinerpagebg7 h2 , .secinerpagebg5 h2{
+  .secinerpagebg4 h2 , .secinerpagebg3 h2 , .secinerpagebg7 h2 , .secinerpagebg5 h2 , .secinerpagenew h2{
     font-size: 30px;
   }
 
