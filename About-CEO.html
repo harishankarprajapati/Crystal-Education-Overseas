@@ -113,13 +113,29 @@
         <p>Crystal Education Overseas has garnered numerous prestigious awards, reflecting its unwavering commitment to quality education and student success. Among these accolades are: National Excellence Award in Professional Education, presented by India's erstwhile Industry & Commerce Minister, Mr. Suresh Prabhu. Iconic Brand of India Award, bestowed by The Economic Times. Inspiring Leaders of India Award by the Economic Times. Best Coaching Mentor of India Award, from Dainik Jagran, the world's most subscribed newspaper.</p>
         <p>Mr. Sinha fondly recalls his childhood dream of winning an Oscar and compares this aspiration to the accolades Crystal Education Overseas has achieved. "These awards validate our dedication to handling students in the best possible way. We never compromise on our services or the trust our students place in us," he says.</p>
     </div>
-    <div class="row m-0 seculatpalat">
-        <div class="col-lg-6">
+    <div class="owl-carousel Awards owl-theme">
+        <div class="item">
+            <img class="img-fluid" src="images/Awards3.jpeg" alt="">
+        </div>
+        <div class="item">
+            <img class="img-fluid" src="images/Awards4.jpeg" alt="">
+        </div>
+        <div class="item">
+            <img class="img-fluid" src="images/Awards5.jpeg" alt="">
+        </div>
+        <div class="item">
+            <img class="img-fluid" src="images/Awards6.jpeg" alt="">
+        </div>
+        <div class="item">
+            <img class="img-fluid" src="images/Awards7.jpeg" alt="">
+        </div>
+        <div class="item">
             <img class="img-fluid" src="images/Awards1.png" alt="">
         </div>
-        <div class="col-lg-6">
+        <div class="item">
             <img class="img-fluid" src="images/Awards2.png" alt="">
         </div>
+    
     </div>
  </div>
 <!-- Holistic Services -->
@@ -193,5 +209,30 @@
     <script src="js/include-html.min.js"></script>
     <script src='https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js'></script>
 
-
+<script>
+    $('.owl-carousel.Awards').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay: true,
+  rewind: true,
+  margin: 20,
+  loop:true,
+  responsiveClass: true,
+  autoHeight: true,
+  autoplayTimeout: 2500,
+  smartSpeed: 800,
+  nav: false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:2
+        }
+    }
+})
+</script>
 </body>

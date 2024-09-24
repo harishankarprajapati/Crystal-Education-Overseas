@@ -2007,3 +2007,7 @@ input[type=number]::-webkit-outer-spin-button
   font-weight: 700;
   color: #000;
 }
+
+.Awards .owl-nav.disabled{
+  display: none;
+}
