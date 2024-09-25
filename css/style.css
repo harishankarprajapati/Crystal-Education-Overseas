@@ -1144,10 +1144,11 @@ button {
 }
 
 .secleftee h3 {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   color: #000;
-  padding-top: 30px;
+  padding-top: 0px;
+  margin-top: -8px;
 }
 
 .seccandaimgblog {
